@@ -29,7 +29,7 @@ public class GetAllSongs {
      *  |"Hotel California" |Eagles                 |
      *  |"Kashmir"          |Led Zeppelin           |
      *
-     * Do not change anything in this code. You should write your sql statement on a single line in the
+     * NOTE: Do not change anything in this code. You should write your sql statement on a single line in the
      * problem1.sql file.
      */
     public List<Song> problem1(){
